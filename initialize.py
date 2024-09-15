@@ -6,9 +6,9 @@ def setup_and_run():
     setup_database()
     
     # Example data
-    band_name = 'The Rockers'
-    venue_title = 'Rock Arena'
-    date = '2024-09-15'
+    band_name = 'The Star Gazers'
+    venue_title = 'Forever Young'
+    date = '2009-09-09'
     concert_id = 1
     
     # Add a new concert
