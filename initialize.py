@@ -39,5 +39,4 @@ def setup_and_run():
     print(f"Most frequent band at {venue_title}: {most_frequent_band}")
 
 # To execute the setup and run function
-
 setup_and_run()
